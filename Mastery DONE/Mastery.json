@@ -1,0 +1,339 @@
+{
+   "data": {
+      "6121": {
+         "id": 6121,
+         "description": ["Your first basic attack against a champion deals an additional 10 +1 per level damage (6 second cooldown)"],
+         "name": "Fresh Blood"
+      },
+      "6261": {
+         "id": 6261,
+         "description": ["Every 4 seconds in combat, your next attack against an enemy champion deals damage equal to 3% of your max Health and heals you for 1.5% of your max Health (halved for ranged champions, deals magic damage)"],
+         "name": "Grasp of the Undying"
+      },
+      "6122": {
+         "id": 6122,
+         "description": ["Killing a unit restores 20 Health (30 second cooldown)"],
+         "name": "Feast"
+      },
+      "6123": {
+         "id": 6123,
+         "description": ["Damaging enemy champions causes them to take 3% more damage from your allies"],
+         "name": "Expose Weakness"
+      },
+      "6141": {
+         "id": 6141,
+         "description": ["Deal 1.5% increased damage for each unique enemy champion you have killed"],
+         "name": "Bounty Hunter"
+      },
+      "6142": {
+         "id": 6142,
+         "description": ["Deal 5% additional damage, take 2.5% additional damage."],
+         "name": "Double Edged Sword"
+      },
+      "6162": {
+         "id": 6162,
+         "description": ["Hitting champions with basic attacks generates a Fervor stack (2 for melee attacks). Stacks of Fervor last 6 seconds (max 8 stacks)and increase your AD by 1-8 for each stack."],
+         "name": "Fervor of Battle"
+      },
+      "6143": {
+         "id": 6143,
+         "description": ["Gain up to 5% increased damage over 5 seconds when in combat with enemy Champions"],
+         "name": "Battle Trance"
+      },
+      "6161": {
+         "id": 6161,
+         "description": ["Gain increasingly more Life Steal based on your missing health against champions (up to 20%). Against minions gain 50% benefit (25% for ranged champions)."],
+         "name": "Warlord's Bloodlust"
+      },
+      "6323": {
+         "id": 6323,
+         "description": ["Deal 2% increased damage to champions when no allied champions are nearby"],
+         "name": "Assassin"
+      },
+      "6341": {
+         "id": 6341,
+         "description": ["Stepping into brush causes your next damaging attack or ability to deal 3% of your target's current health as bonus magic damage (9s Cooldown)"],
+         "name": "Greenfather's Gift"
+      },
+      "6164": {
+         "id": 6164,
+         "description": ["Your damaging abilities cause enemy champions to take magic damage over 4 seconds.<br><br>Damage: 8 + 60% Bonus Attack Damage and 25% Ability Power<br><br>Deathfire Touch's duration is reduced for:<br>     - Area of Effect: 2 second duration. <br>     - Damage over Time: 1 second duration."],
+         "name": "Deathfire Touch"
+      },
+      "6342": {
+         "id": 6342,
+         "description": ["Gain 1 gold for each nearby minion killed by an ally. <br><br>Gain 3 gold (10 if melee) when hitting an enemy champion with a basic attack (5 second cooldown)"],
+         "name": "Bandit"
+      },
+      "6241": {
+         "id": 6241,
+         "description": ["Reduces the cooldown of Summoner Spells by 15%"],
+         "name": "Insight"
+      },
+      "6321": {
+         "id": 6321,
+         "description": ["Buffs from neutral monsters last 15% longer"],
+         "name": "Runic Affinity"
+      },
+      "6242": {
+         "id": 6242,
+         "description": ["+50% Base Health Regen, increased to +200% when below 25% Health"],
+         "name": "Perseverance"
+      },
+      "6322": {
+         "id": 6322,
+         "description": ["Your Potions and Elixirs last 10% longer.<br><br>Your Health Potions are replaced with Biscuits that restore 15 Health and Mana instantly on use"],
+         "name": "Secret Stash"
+      },
+      "6243": {
+         "id": 6243,
+         "description": ["Gain 10% +2 per level bonus Armor and Magic Resist when damaged by an enemy champion for 2 seconds (9s Cooldown)"],
+         "name": "Fearless"
+      },
+      "6262": {
+         "id": 6262,
+         "description": ["Gain a shield for 10 +10 per level + 5%  of your maximum health for each nearby enemy champion for 4 seconds after hitting an enemy champion with a stun, taunt, snare, or knock up(45 - 30 second cooldown based on level)."],
+         "name": "Courage of the Colossus"
+      },
+      "6263": {
+         "id": 6263,
+         "description": ["+4% Damage Reduction. 6% of the damage from enemy champions taken by the nearest allied champion is dealt to you instead. Damage is not redirected if you are below 5% of your maximum health."],
+         "name": "Bond of Stone"
+      },
+      "6343": {
+         "id": 6343,
+         "description": ["Champion kills and assists restore 5% of your missing Health and Mana"],
+         "name": "Dangerous Game"
+      },
+      "6352": {
+         "id": 6352,
+         "description": [
+            "Your Cooldown Reduction cap is increased to 41% and you gain 1% Cooldown Reduction",
+            "Your Cooldown Reduction cap is increased to 42% and you gain 2% Cooldown Reduction",
+            "Your Cooldown Reduction cap is increased to 43% and you gain 3% Cooldown Reduction",
+            "Your Cooldown Reduction cap is increased to 44% and you gain 4% Cooldown Reduction",
+            "Your Cooldown Reduction cap is increased to 45% and you gain 5% Cooldown Reduction"
+         ],
+         "name": "Intelligence"
+      },
+      "6351": {
+         "id": 6351,
+         "description": [
+            "Gain 1.7 Lethality and 0.6 + 0.06 per level Magic Penetration",
+            "Gain 3.4 Lethality and 1.2 + 0.12 per level Magic Penetration",
+            "Gain 5.1 Lethality and 1.8 + 0.18 per level Magic Penetration",
+            "Gain 6.8 Lethality and 2.4 + 0.24 per level Magic Penetration",
+            "Gain 8.5 Lethality and 3 + 0.3 per level Magic Penetration"
+         ],
+         "name": "Precision"
+      },
+      "6212": {
+         "id": 6212,
+         "description": [
+            "+1% Bonus Armor and Magic Resist",
+            "+2% Bonus Armor and Magic Resist",
+            "+3% Bonus Armor and Magic Resist",
+            "+4% Bonus Armor and Magic Resist",
+            "+5% Bonus Armor and Magic Resist"
+         ],
+         "name": "Unyielding"
+      },
+      "6211": {
+         "id": 6211,
+         "description": [
+            "+0.4 Health per 5 seconds",
+            "+0.8 Health per 5 seconds",
+            "+1.2 Health per 5 seconds",
+            "+1.6 Health per 5 seconds",
+            "+2.0 Health per 5 seconds"
+         ],
+         "name": "Recovery"
+      },
+      "6111": {
+         "id": 6111,
+         "description": [
+            "+0.8% Attack Speed",
+            "+1.6% Attack Speed",
+            "+2.4% Attack Speed",
+            "+3.2% Attack Speed",
+            "+4% Attack Speed"
+         ],
+         "name": "Fury"
+      },
+      "6134": {
+         "id": 6134,
+         "description": [
+            "Gain 0.4 + 0.09 per level Attack Damage, and 0.6 + 0.13 per level Ability Power (+2 Attack Damage and 3 Ability Power at level 18)",
+            "Gain 0.8 + 0.18 per level Attack Damage, and 1.2 + 0.27 per level Ability Power (+4 Attack Damage and 6 Ability Power at level 18)",
+            "Gain 1.2 + 0.27 per level Attack Damage, and 1.8 + 0.4 per level Ability Power (+6 Attack Damage and 9 Ability Power at level 18)",
+            "Gain 1.6 + 0.36 per level Attack Damage, and 2.4 + 0.53 per level Ability Power (+8 Attack Damage and 12 Ability Power at level 18)",
+            "Gain 2 + 0.44 per level Attack Damage, and 3 + 0.67 per level Ability Power (+10 Attack Damage and 15 Ability Power at level 18)"
+         ],
+         "name": "Natural Talent"
+      },
+      "6114": {
+         "id": 6114,
+         "description": [
+            "+0.4% increased Ability damage",
+            "+0.8% increased Ability damage",
+            "+1.2% increased Ability damage",
+            "+1.6% increased Ability damage",
+            "+2.0% increased Ability damage"
+         ],
+         "name": "Sorcery"
+      },
+      "6151": {
+         "id": 6151,
+         "description": [
+            "+1.4% Armor Penetration",
+            "+2.8% Armor Penetration",
+            "+4.2% Armor Penetration",
+            "+5.6% Armor Penetration",
+            "+7% Armor Penetration"
+         ],
+         "name": "Battering Blows"
+      },
+      "6131": {
+         "id": 6131,
+         "description": [
+            "+0.4% Lifesteal and Spell Vamp",
+            "+0.8% Lifesteal and Spell Vamp",
+            "+1.2% Lifesteal and Spell Vamp",
+            "+1.6% Lifesteal and Spell Vamp",
+            "+2.0% Lifesteal and Spell Vamp"
+         ],
+         "name": "Vampirism"
+      },
+      "6231": {
+         "id": 6231,
+         "description": [
+            "Shields, healing, regeneration, and lifesteal on you are 1.6% stronger",
+            "Shields, healing, regeneration, and lifesteal on you are 3.2% stronger",
+            "Shields, healing, regeneration, and lifesteal on you are 4.8% stronger",
+            "Shields, healing, regeneration, and lifesteal on you are 6.4% stronger",
+            "Shields, healing, regeneration, and lifesteal on you are 8% stronger"
+         ],
+         "name": "Runic Armor"
+      },
+      "6311": {
+         "id": 6311,
+         "description": [
+            "+0.6% Movement Speed out of combat",
+            "+1.2% Movement Speed out of combat",
+            "+1.8% Movement Speed out of combat",
+            "+2.4% Movement Speed out of combat",
+            "+3% Movement Speed out of combat"
+         ],
+         "name": "Wanderer"
+      },
+      "6154": {
+         "id": 6154,
+         "description": [
+            "+1.4% Magic Penetration",
+            "+2.8% Magic Penetration",
+            "+4.2% Magic Penetration",
+            "+5.6% Magic Penetration",
+            "+7% Magic Penetration"
+         ],
+         "name": "Piercing Thoughts"
+      },
+      "6232": {
+         "id": 6232,
+         "description": [
+            "+10 Health",
+            "+20 Health",
+            "+30 Health",
+            "+40 Health",
+            "+50 Health"
+         ],
+         "name": "Veteran's Scars"
+      },
+      "6312": {
+         "id": 6312,
+         "description": [
+            "Single target attacks and spells deal 1 bonus damage to minions and monsters",
+            "Single target attacks and spells deal 2 bonus damage to minions and monsters",
+            "Single target attacks and spells deal 3 bonus damage to minions and monsters",
+            "Single target attacks and spells deal 4 bonus damage to minions and monsters",
+            "Single target attacks and spells deal 5 bonus damage to minions and monsters"
+         ],
+         "name": "Savagery"
+      },
+      "6331": {
+         "id": 6331,
+         "description": [
+            "Deal 1% increased damage to champions below 40% Health",
+            "Deal 2% increased damage to champions below 40% Health",
+            "Deal 3% increased damage to champions below 40% Health",
+            "Deal 4% increased damage to champions below 40% Health",
+            "Deal 5% increased damage to champions below 40% Health"
+         ],
+         "name": "Merciless"
+      },
+      "6332": {
+         "id": 6332,
+         "description": [
+            "Regenerate 0.3% of your missing Mana every 5 seconds",
+            "Regenerate 0.6% of your missing Mana every 5 seconds",
+            "Regenerate 0.9% of your missing Mana every 5 seconds",
+            "Regenerate 1.2% of your missing Mana every 5 seconds",
+            "Regenerate 1.5% of your missing Mana every 5 seconds"
+         ],
+         "name": "Meditation"
+      },
+      "6251": {
+         "id": 6251,
+         "description": [
+            "+3% Tenacity and Slow Resist",
+            "+6% Tenacity and Slow Resist",
+            "+9% Tenacity and Slow Resist",
+            "+12% Tenacity and Slow Resist",
+            "+15% Tenacity and Slow Resist"
+         ],
+         "name": "Swiftness"
+      },
+      "6252": {
+         "id": 6252,
+         "description": [
+            "+0.6 Armor and Magic Resist for each nearby enemy champion",
+            "+1.2 Armor and Magic Resist for each nearby enemy champion",
+            "+1.8 Armor and Magic Resist for each nearby enemy champion",
+            "+2.4 Armor and Magic Resist for each nearby enemy champion",
+            "+3 Armor and Magic Resist for each nearby enemy champion"
+         ],
+         "name": "Legendary Guardian"
+      },
+      "6221": {
+         "id": 6221,
+         "description": ["+15 Movement Speed in Brush and River"],
+         "name": "Explorer"
+      },
+      "6362": {
+         "id": 6362,
+         "description": ["Your 3rd attack or damaging spell against the same enemy champion calls down a lightning strike, dealing magic damage in the area. <br><br>Damage: 10 per level, plus 30% of your Bonus Attack Damage, and 10% of your Ability Power (25-15 second cooldown, based on level)."],
+         "name": "Thunderlord's Decree"
+      },
+      "6361": {
+         "id": 6361,
+         "description": ["Dealing 30% of a champion's max Health within 2.5 seconds grants you 40% Movement Speed and 75% Slow Resistance for 3 seconds (10 second cooldown)."],
+         "name": "Stormraider's Surge"
+      },
+      "6363": {
+         "id": 6363,
+         "description": ["Your heals and shields are 10% stronger. Additionally, your shields and heals on other allies increase their armor by 5-22 (based on level) and their magic resistance by half that amount for 3 seconds."],
+         "name": "Windspeaker's Blessing"
+      },
+      "6223": {
+         "id": 6223,
+         "description": ["You take 2 less damage from champion and neutral monster basic attacks"],
+         "name": "Tough Skin"
+      },
+      "6222": {
+         "id": 6222,
+         "description": ["Gain 8 Armor and Magic Resistance when near an allied tower"],
+         "name": "Siegemaster"
+      }
+   },
+   "type": "mastery",
+   "version": "7.1.1"
+}
