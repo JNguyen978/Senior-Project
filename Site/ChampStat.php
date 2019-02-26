@@ -8,7 +8,7 @@
 	if ($db -> connect_error) die ("Connection Failed");
 	 //echo "Connected ";
 
-		$id = $_GET['ChampName'];
+		$id = $_GET['ChampName'];  //gets info from champion.php
 			//echo $name;
 		
 		$query =("
